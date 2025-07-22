@@ -19,7 +19,7 @@
   - [Task 1: Local Network Port Scan](#task-1-local-network-port-scan)
   - [Task 2: Phishing Email Analysis](#task-2-phishing-email-analysis)
   - [Task 3: Vulnerability Assessment Scanning](#task-3-vulnerability-assessment-scanning)
-  - [Task 4: SetUP UFW Firewall ](#task-4-Setup-UFW-Firewall)
+  - [Task 4: Set up UFW Firewall ](#task-4-Set-up-UFW-Firewall)
   - [Task 5: Capture and Analyze Network Traffic Using Wireshark](#task-5-Capture-and-Analyze-Network-Traffic-Using-Wireshark)
   - [Task 6: Create a strong Password and Evaluate its Strength](#task-6-Create-a-strong-Password-and-Evaluate-its-Strength)
   - [Task 7: Browser Extension Security Audit](#task-7-browser-extension-security-audit)
