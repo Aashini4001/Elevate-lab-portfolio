@@ -12,6 +12,7 @@
 
 ## 📑 Table of Contents
 
+
 - [👋 About This Internship](#about-this-internship)
 - [🏆 Internship Highlights](#internship-highlights)
 - [🔎 Detailed Task Summaries](#detailed-task-summaries)
@@ -23,9 +24,10 @@
   - [Task 6: Password Strength Evaluation & Security Best Practices](#task-6-password-strength-evaluation--security-best-practices)
   - [Task 7: Browser Extension Security Audit](#task-7-browser-extension-security-audit)
   - [Task 8: VPN Privacy & Security Evaluation](#task-8-vpn-privacy--security-evaluation)
-  - [Project: Web Application Vulnerability Scanner](#project-password-strength-analyzer--custom-wordlist-generator)
+  - [Project: Password Strength Analyzer & Custom Wordlist Generator](#project-password-strength-analyzer--custom-wordlist-generator)
 - [🌟 Why Hire Me?](#why-hire-me)
 - [📈 Key Skills Demonstrated](#key-skills-demonstrated)
+
 
 ---
 
