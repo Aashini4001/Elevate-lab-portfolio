@@ -23,7 +23,7 @@
   - [Task 6: Password Strength Evaluation & Security Best Practices](#task-6-password-strength-evaluation--security-best-practices)
   - [Task 7: Browser Extension Security Audit](#task-7-browser-extension-security-audit)
   - [Task 8: VPN Privacy & Security Evaluation](#task-8-vpn-privacy--security-evaluation)
-  - [Project: Password Strength Analyzer & Custom Wordlist Generator](#project-password-strength-analyzer--custom-wordlist-generator)
+  - [Project: Web Application Vulnerability Scanner](#project-password-strength-analyzer--custom-wordlist-generator)
 - [🌟 Why Hire Me?](#why-hire-me)
 - [📈 Key Skills Demonstrated](#key-skills-demonstrated)
 
@@ -51,7 +51,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 | 6   | [Create a strong Password and Evaluate its Strength](https://github.com/Aashini4001/Elevate-labs-task-6)| Authentication, User Awareness    | Security.org, Bitwarden| ![Password](https://img.shields.io/badge/Password%20Security-Strong%20Passwords-yellow?style=flat-square&logo=lastpass) |
 | 7   | [Identify and Remove Suspicious Browser Extensions](https://github.com/Aashini4001/Elevate-labs-task-7)            | Endpoint Security, Privacy        | Edge, Chrome           | ![Browser](https://img.shields.io/badge/Browser%20Audit-Extensions-lightgrey?style=flat-square&logo=google-chrome) |
 | 8   | [Work With Vpn](https://github.com/Aashini4001/Elevate-labs-task-8)           | Privacy, Secure Communications    | ProtonVPN              | ![VPN](https://img.shields.io/badge/VPN-Privacy-blueviolet?style=flat-square&logo=protonvpn) |
-| P   | [Web Application Vulnerability Scanner](https://github.com/Aashini4001/Elevate-labs--Final-project)| Password Security Awareness       | Python (basic), Tkinter| ![Python](https://img.shields.io/badge/Python-Basics-blue?style=flat-square&logo=python) |
+| P   | [Web Application Vulnerability Scanner](https://github.com/Aashini4001/Elevate-labs--Final-project)| | Python (basic), Tkinter| ![Python](https://img.shields.io/badge/Python-Basics-blue?style=flat-square&logo=python) |
 
 ---
 
