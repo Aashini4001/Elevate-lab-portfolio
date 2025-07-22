@@ -33,7 +33,7 @@
 
 **Role:** Cybersecurity Intern  
 **Organization:** Elevate Labs  
-**Duration:** 1 Month (May–June 2025)
+**Duration:** 1 Month (june-july 2025)
 
 Welcome! This repository documents my hands-on journey as a Cybersecurity Intern at Elevate Labs, where I completed 8 practical tasks and delivered a full-featured security project. My journey included network scanning, phishing analysis, vulnerability assessment, firewall configuration, and more.
 
@@ -139,7 +139,45 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ### Project: Web Application Vulnerability Scanner
 
-[🔗 View Full Project Details](https://github.com/Sridhar-s-12/PasswordTool)
+[🔗 View Full Project Details](https://github.com/Aashini4001/Elevate-labs--Final-project)
+
+
+This repository contains the final projects submitted for the Elevate Labs Internship. It includes one resume-worthy cybersecurity projects: one focused on offensive security (vulnerability detection) 
+
+---
+
+## 🔐 Project 1: Web Application Vulnerability Scanner
+
+### 📌 Objective:
+To identify common web vulnerabilities like SQL Injection and XSS in web forms.
+
+### 🛠 Tools Used:
+- Python 3.10
+- requests
+- BeautifulSoup
+- HTML form parsing
+- Test site: [http://testphp.vulnweb.com](http://testphp.vulnweb.com)
+
+### ⚙️ Features:
+- Crawls HTML forms from a target website
+- Injects test payloads to detect:
+  - SQL Injection
+  - Cross-Site Scripting (XSS)
+- Logs any detected vulnerabilities to `report.txt`
+
+### 📂 Folder:
+- `Web vulnerablity scanner/`
+
+
+
+## ✅ Final Notes:
+- Each project was built individually, following Elevate Labs guidelines.
+- Git was used for version control and project management.
+- This repository reflects strong hands-on skills in ethical hacking, encryption, Python, and security automation.
+
+---
+
+**Submitted by:** AASHINI
 
 
 ---
