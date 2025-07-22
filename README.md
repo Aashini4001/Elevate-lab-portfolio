@@ -43,14 +43,14 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 | #   | Task/Project Title                                   | Focus Area                        | Key Tools              | Badge |
 |-----|------------------------------------------------------|-----------------------------------|------------------------|-------|
-| 1   | [Local Network Port Scan](https://github.com/Sridhar-s-12/Sridhar_interntask_elvlab/tree/Task-1)                              | Network Reconnaissance            | Nmap, Wireshark        | ![Network](https://img.shields.io/badge/Network%20Scan-Nmap-blue?style=flat-square&logo=wireshark) |
-| 2   | [Phishing Email Analysis](https://github.com/Sridhar-s-12/Sridhar_interntask_elvlab/tree/Task-2)                              | Social Engineering, Forensics     | Thunderbird, MXToolbox | ![Phishing](https://img.shields.io/badge/Phishing%20Analysis-Email-red?style=flat-square&logo=gmail) |
-| 3   | [Vulnerability Assessment Project](https://github.com/Sridhar-s-12/Sridhar_interntask_elvlab/tree/Task-3)            | Vulnerability Management          | Nessus Essentials      | ![Vuln](https://img.shields.io/badge/Vulnerability%20Scan-Nessus-orange?style=flat-square&logo=tenable) |
-| 4   | [UFW Firewall Configuration](https://github.com/Sridhar-s-12/Sridhar_interntask_elvlab/tree/Task-4)                       | Network Defense                   | UFW, Kali Linux        | ![Firewall](https://img.shields.io/badge/Firewall-UFW-green?style=flat-square&logo=linux) |
-| 5   | [Network Traffic Analysis with Wireshark](https://github.com/Sridhar-s-12/Sridhar_interntask_elvlab/tree/Task-5) | Packet Analysis, Threat Detection | Wireshark              | ![Wireshark](https://img.shields.io/badge/Packet%20Analysis-Wireshark-blue?style=flat-square&logo=wireshark) |
-| 6   | [Password Strength Evaluation & Security Best Practices](https://github.com/Sridhar-s-12/Sridhar_interntask_elvlab/tree/Task-6)| Authentication, User Awareness    | Security.org, Bitwarden| ![Password](https://img.shields.io/badge/Password%20Security-Strong%20Passwords-yellow?style=flat-square&logo=lastpass) |
-| 7   | [Browser Extension Security Audit](https://github.com/Sridhar-s-12/Sridhar_interntask_elvlab/tree/Task-7)            | Endpoint Security, Privacy        | Edge, Chrome           | ![Browser](https://img.shields.io/badge/Browser%20Audit-Extensions-lightgrey?style=flat-square&logo=google-chrome) |
-| 8   | [VPN Privacy & Security Evaluation](https://github.com/Sridhar-s-12/Sridhar_interntask_elvlab/tree/Task-8)           | Privacy, Secure Communications    | ProtonVPN              | ![VPN](https://img.shields.io/badge/VPN-Privacy-blueviolet?style=flat-square&logo=protonvpn) |
+| 1   | [Local Network Port Scan](https://github.com/Aashini4001/Elevate-labs-task-1)                              | Network Reconnaissance            | Nmap, Wireshark        | ![Network](https://img.shields.io/badge/Network%20Scan-Nmap-blue?style=flat-square&logo=wireshark) |
+| 2   | [Phishing Email Analysis](https://github.com/Aashini4001/Elevate-labs-task-2)                              | Social Engineering, Forensics     | Thunderbird, MXToolbox | ![Phishing](https://img.shields.io/badge/Phishing%20Analysis-Email-red?style=flat-square&logo=gmail) |
+| 3   | [Vulnerability Assessment Project](https://github.com/Aashini4001/Elevate-labs-task-3)            | Vulnerability Management          | Nessus Essentials      | ![Vuln](https://img.shields.io/badge/Vulnerability%20Scan-Nessus-orange?style=flat-square&logo=tenable) |
+| 4   | [UFW Firewall Configuration](https://github.com/Aashini4001/Elevate-labs-task-4)                       | Network Defense                   | UFW, Kali Linux        | ![Firewall](https://img.shields.io/badge/Firewall-UFW-green?style=flat-square&logo=linux) |
+| 5   | [Network Traffic Analysis with Wireshark](https://github.com/Aashini4001/Elevate-labs-task-5) | Packet Analysis, Threat Detection | Wireshark              | ![Wireshark](https://img.shields.io/badge/Packet%20Analysis-Wireshark-blue?style=flat-square&logo=wireshark) |
+| 6   | [Password Strength Evaluation & Security Best Practices](https://github.com/Aashini4001/Elevate-labs-task-6)| Authentication, User Awareness    | Security.org, Bitwarden| ![Password](https://img.shields.io/badge/Password%20Security-Strong%20Passwords-yellow?style=flat-square&logo=lastpass) |
+| 7   | [Browser Extension Security Audi](https://github.com/Aashini4001/Elevate-labs-task-7)            | Endpoint Security, Privacy        | Edge, Chrome           | ![Browser](https://img.shields.io/badge/Browser%20Audit-Extensions-lightgrey?style=flat-square&logo=google-chrome) |
+| 8   | [VPN Privacy & Security Evaluation](https://github.com/Aashini4001/Elevate-labs-task-8)           | Privacy, Secure Communications    | ProtonVPN              | ![VPN](https://img.shields.io/badge/VPN-Privacy-blueviolet?style=flat-square&logo=protonvpn) |
 | P   | [Password Strength Analyzer & Custom Wordlist Generator](https://github.com/Sridhar-s-12/PasswordTool)| Password Security Awareness       | Python (basic), Tkinter| ![Python](https://img.shields.io/badge/Python-Basics-blue?style=flat-square&logo=python) |
 
 ---
@@ -59,7 +59,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ### Task 1: Local Network Port Scan
 
-[🔗 View Full Task Details](https://github.com/Sridhar-s-12/Sridhar_interntask_elvlab/tree/Task-1)
+[🔗 View Full Task Details](https://github.com/Aashini4001/Elevate-labs-task-1)
 
 **Objective:** Identify open ports and potential vulnerabilities in the local network using Nmap and Wireshark.  
 **Outcome:** Discovered 6 active devices, mapped exposed services (SSH, HTTP, SMB, MySQL, RDP), and gained hands-on experience with SYN scans at the packet level.  
@@ -69,7 +69,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ### Task 2: Phishing Email Analysis
 
-[🔗 View Full Task Details](https://github.com/Sridhar-s-12/Sridhar_interntask_elvlab/tree/Task-2)
+[🔗 View Full Task Details](https://github.com/Aashini4001/Elevate-labs-task-2)
 
 **Objective:** Analyze a real phishing email for classic red flags and security weaknesses.  
 **Outcome:** Identified spoofed sender domains, failed SPF/DKIM/DMARC, suspicious links, and urgent language.  
@@ -79,7 +79,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ### Task 3: Vulnerability Assessment Project
 
-[🔗 View Full Task Details](https://github.com/Sridhar-s-12/Sridhar_interntask_elvlab/tree/Task-3)
+[🔗 View Full Task Details](https://github.com/Aashini4001/Elevate-labs-task-3)
 
 **Objective:** Conduct a vulnerability scan and remediation plan on a Kali Linux system using Nessus Essentials.  
 **Outcome:** Detected SSL/TLS issues, service exposures, and outdated software; developed prioritized remediation strategies.  
@@ -89,7 +89,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ### Task 4: UFW Firewall Configuration
 
-[🔗 View Full Task Details](https://github.com/Sridhar-s-12/Sridhar_interntask_elvlab/tree/Task-4)
+[🔗 View Full Task Details](https://github.com/Aashini4001/Elevate-labs-task-4)
 
 **Objective:** Harden a Linux system by configuring and testing firewall rules with UFW.  
 **Outcome:** Implemented default-deny, allowed only essential services, blocked insecure protocols, and validated rules.  
@@ -99,7 +99,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ### Task 5: Network Traffic Analysis with Wireshark
 
-[🔗 View Full Task Details](https://github.com/Sridhar-s-12/Sridhar_interntask_elvlab/tree/Task-5)
+[🔗 View Full Task Details](https://github.com/Aashini4001/Elevate-labs-task-5)
 
 **Objective:** Capture and analyze live network traffic to identify vulnerabilities and protocol usage.  
 **Outcome:** Identified HTTP, DNS, ARP, NTP, ICMP, TCP traffic; detected critical vulnerabilities such as unencrypted sensitive data transmission.  
@@ -109,7 +109,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ### Task 6: Password Strength Evaluation & Security Best Practices
 
-[🔗 View Full Task Details](https://github.com/Sridhar-s-12/Sridhar_interntask_elvlab/tree/Task-6)
+[🔗 View Full Task Details](https://github.com/Aashini4001/Elevate-labs-task-6)
 
 **Objective:** Evaluate password strengths, promote secure password management, and explore modern authentication.  
 **Outcome:** Compared weak vs strong passwords, advocated password managers and MFA/passkeys, and summarized best practices.  
@@ -119,7 +119,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ### Task 7: Browser Extension Security Audit
 
-[🔗 View Full Task Details](https://github.com/Sridhar-s-12/Sridhar_interntask_elvlab/tree/Task-7)
+[🔗 View Full Task Details](https://github.com/Aashini4001/Elevate-labs-task-7)
 
 **Objective:** Audit browser extensions for privacy and security risks.  
 **Outcome:** Reviewed permissions, flagged/remediated risks, and documented findings.  
@@ -129,7 +129,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ### Task 8: VPN Privacy & Security Evaluation
 
-[🔗 View Full Task Details](https://github.com/Sridhar-s-12/Sridhar_interntask_elvlab/tree/Task-8)
+[🔗 View Full Task Details](https://github.com/Aashini4001/Elevate-labs-task-8)
 
 **Objective:** Set up and test ProtonVPN to understand VPN benefits and limitations.  
 **Outcome:** Verified IP masking, tested speed, researched encryption and privacy features, and summarized real-world benefits and limitations.  
