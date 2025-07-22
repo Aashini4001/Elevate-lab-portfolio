@@ -45,13 +45,13 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 |-----|------------------------------------------------------|-----------------------------------|------------------------|-------|
 | 1   | [Local Network Port Scan](https://github.com/Aashini4001/Elevate-labs-task-1)                              | Network Reconnaissance            | Nmap, Wireshark        | ![Network](https://img.shields.io/badge/Network%20Scan-Nmap-blue?style=flat-square&logo=wireshark) |
 | 2   | [Phishing Email Analysis](https://github.com/Aashini4001/Elevate-labs-task-2)                              | Social Engineering, Forensics     | Thunderbird, MXToolbox | ![Phishing](https://img.shields.io/badge/Phishing%20Analysis-Email-red?style=flat-square&logo=gmail) |
-| 3   | [Vulnerability Assessment Project](https://github.com/Aashini4001/Elevate-labs-task-3)            | Vulnerability Management          | Nessus Essentials      | ![Vuln](https://img.shields.io/badge/Vulnerability%20Scan-Nessus-orange?style=flat-square&logo=tenable) |
-| 4   | [UFW Firewall Configuration](https://github.com/Aashini4001/Elevate-labs-task-4)                       | Network Defense                   | UFW, Kali Linux        | ![Firewall](https://img.shields.io/badge/Firewall-UFW-green?style=flat-square&logo=linux) |
-| 5   | [Network Traffic Analysis with Wireshark](https://github.com/Aashini4001/Elevate-labs-task-5) | Packet Analysis, Threat Detection | Wireshark              | ![Wireshark](https://img.shields.io/badge/Packet%20Analysis-Wireshark-blue?style=flat-square&logo=wireshark) |
-| 6   | [Password Strength Evaluation & Security Best Practices](https://github.com/Aashini4001/Elevate-labs-task-6)| Authentication, User Awareness    | Security.org, Bitwarden| ![Password](https://img.shields.io/badge/Password%20Security-Strong%20Passwords-yellow?style=flat-square&logo=lastpass) |
-| 7   | [Browser Extension Security Audi](https://github.com/Aashini4001/Elevate-labs-task-7)            | Endpoint Security, Privacy        | Edge, Chrome           | ![Browser](https://img.shields.io/badge/Browser%20Audit-Extensions-lightgrey?style=flat-square&logo=google-chrome) |
-| 8   | [VPN Privacy & Security Evaluation](https://github.com/Aashini4001/Elevate-labs-task-8)           | Privacy, Secure Communications    | ProtonVPN              | ![VPN](https://img.shields.io/badge/VPN-Privacy-blueviolet?style=flat-square&logo=protonvpn) |
-| P   | [Password Strength Analyzer & Custom Wordlist Generator](https://github.com/Sridhar-s-12/PasswordTool)| Password Security Awareness       | Python (basic), Tkinter| ![Python](https://img.shields.io/badge/Python-Basics-blue?style=flat-square&logo=python) |
+| 3   | [Vulnerability Assessment Scanning](https://github.com/Aashini4001/Elevate-labs-task-3)            | Vulnerability Management          | Nessus Essentials      | ![Vuln](https://img.shields.io/badge/Vulnerability%20Scan-Nessus-orange?style=flat-square&logo=tenable) |
+| 4   | [Set up UFW Firewall ](https://github.com/Aashini4001/Elevate-labs-task-4)                       | Network Defense                   | UFW, Kali Linux        | ![Firewall](https://img.shields.io/badge/Firewall-UFW-green?style=flat-square&logo=linux) |
+| 5   | [Capture and Analyze Network Traffic Using Wireshark](https://github.com/Aashini4001/Elevate-labs-task-5) | Packet Analysis, Threat Detection | Wireshark              | ![Wireshark](https://img.shields.io/badge/Packet%20Analysis-Wireshark-blue?style=flat-square&logo=wireshark) |
+| 6   | [Create a strong Password and Evaluate its Strength](https://github.com/Aashini4001/Elevate-labs-task-6)| Authentication, User Awareness    | Security.org, Bitwarden| ![Password](https://img.shields.io/badge/Password%20Security-Strong%20Passwords-yellow?style=flat-square&logo=lastpass) |
+| 7   | [Identify and Remove Suspicious Browser Extensions](https://github.com/Aashini4001/Elevate-labs-task-7)            | Endpoint Security, Privacy        | Edge, Chrome           | ![Browser](https://img.shields.io/badge/Browser%20Audit-Extensions-lightgrey?style=flat-square&logo=google-chrome) |
+| 8   | [Work With Vpn](https://github.com/Aashini4001/Elevate-labs-task-8)           | Privacy, Secure Communications    | ProtonVPN              | ![VPN](https://img.shields.io/badge/VPN-Privacy-blueviolet?style=flat-square&logo=protonvpn) |
+| P   | [Web Application Vulnerability Scanner](https://github.com/Aashini4001/Elevate-labs--Final-project)| Password Security Awareness       | Python (basic), Tkinter| ![Python](https://img.shields.io/badge/Python-Basics-blue?style=flat-square&logo=python) |
 
 ---
 
@@ -77,7 +77,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ---
 
-### Task 3: Vulnerability Assessment Project
+### Task 3: Vulnerability Assessment scanning
 
 [🔗 View Full Task Details](https://github.com/Aashini4001/Elevate-labs-task-3)
 
@@ -87,7 +87,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ---
 
-### Task 4: UFW Firewall Configuration
+### Task 4: Set up UFW Firewall 
 
 [🔗 View Full Task Details](https://github.com/Aashini4001/Elevate-labs-task-4)
 
@@ -97,7 +97,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ---
 
-### Task 5: Network Traffic Analysis with Wireshark
+### Task 5: Capture and Analyze Network Traffic Using Wireshark
 
 [🔗 View Full Task Details](https://github.com/Aashini4001/Elevate-labs-task-5)
 
@@ -107,7 +107,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ---
 
-### Task 6: Password Strength Evaluation & Security Best Practices
+### Task 6: Create a strong Password and Evaluate its Strength
 
 [🔗 View Full Task Details](https://github.com/Aashini4001/Elevate-labs-task-6)
 
@@ -117,7 +117,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ---
 
-### Task 7: Browser Extension Security Audit
+### Task 7: Identify and Remove Suspicious Browser Extensions
 
 [🔗 View Full Task Details](https://github.com/Aashini4001/Elevate-labs-task-7)
 
@@ -127,7 +127,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ---
 
-### Task 8: VPN Privacy & Security Evaluation
+### Task 8: Work with VPN
 
 [🔗 View Full Task Details](https://github.com/Aashini4001/Elevate-labs-task-8)
 
@@ -137,20 +137,10 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ---
 
-### Project: Password Strength Analyzer & Custom Wordlist Generator
+### Project: Web Application Vulnerability Scanner
 
 [🔗 View Full Project Details](https://github.com/Sridhar-s-12/PasswordTool)
 
-**Objective:** Build a tool to assess password strength and generate custom wordlists for security awareness and penetration testing.  
-*Note: As someone from a non-coding background, I gained a foundational understanding of Python during this internship. My project was completed with the help of AI tools and self-learning, reflecting my adaptability and enthusiasm for new challenges.*
-
-**Features:**  
-- Real-time password analysis and crack time estimation  
-- Custom wordlist generation (leetspeak, case variations, year appendages)  
-- Export-ready lists for use with security tools  
-- Simple, user-friendly GUI
-
-**Tech Stack:** Python (basic), Tkinter, zxcvbn, NLTK
 
 ---
 
